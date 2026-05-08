@@ -13,7 +13,7 @@ class FizzBuzz {
         }
     }
 
-    public static int operation(){
+    public static void operation(){
         int i = 1;
         while(i < 100){
             i = getI(i);
